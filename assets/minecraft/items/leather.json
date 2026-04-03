@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather"
+    },
+    "entries": [
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tough_leather"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/processed_leather"
+        }
+      },
+	  {
+        "threshold": 1003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/back_pack"
+        }
+      },
+	  {
+        "threshold": 1004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/charred_shard"
+        }
+      },
+	  {
+        "threshold": 1005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sinners_ash"
+        }
+      },
+	  {
+        "threshold": 1006,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/infernal_resin_drop"
+        }
+      }
+    ]
+  }
+}

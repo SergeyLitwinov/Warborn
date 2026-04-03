@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "instrument=basedrum,note=15,powered=false": {
+      "model": "minecraft:block/infernal_rift_stabilizer"
+    }
+  }
+}
