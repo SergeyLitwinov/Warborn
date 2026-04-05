@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/infernal_resin_drop"
+    "layer0": "minecraft:item/ash_clump"
   }
 }

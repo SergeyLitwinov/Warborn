@@ -22,32 +22,81 @@
           "model": "minecraft:item/processed_leather"
         }
       },
-	  {
+      {
         "threshold": 1003,
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/back_pack"
         }
       },
-	  {
+      {
         "threshold": 1004,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/charred_shard"
+          "model": "minecraft:item/charred_fragment"
         }
       },
-	  {
+      {
         "threshold": 1005,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/sinners_ash"
+          "model": "minecraft:item/distorted_bone"
         }
       },
-	  {
+      {
         "threshold": 1006,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/infernal_resin_drop"
+          "model": "minecraft:item/ash_clump"
+        }
+      },
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hell_tattered_cloth"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/cracked_rift_core"
+        }
+      },
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/stable_energy_shard"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/hell_resin"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/rift_crystal"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/soul_fiber"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/rift_heart"
         }
       }
     ]
